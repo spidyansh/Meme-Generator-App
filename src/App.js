@@ -1,5 +1,6 @@
 import './App.css';
 import Counter from './Components/Counter';
+import FormPractice from './Components/FormPractice';
 import Header from './Components/Header';
 import Hero from './Components/Hero';
 import Imgdata from './Components/Imgdata';
@@ -19,6 +20,7 @@ function App() {
       <Hero/>
       {/* <Counter/> */}
       {cardimg}
+      <FormPractice/>
       
     </>
   );
