@@ -4,6 +4,7 @@ import FormPractice from './Components/FormPractice';
 import Header from './Components/Header';
 import Hero from './Components/Hero';
 import Imgdata from './Components/Imgdata';
+import Signup from './Components/Signup';
 import Timepass from './Components/Timepass';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       {/* <Counter/> */}
       {cardimg}
       <FormPractice/>
+      <Signup/>
       
     </>
   );
