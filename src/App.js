@@ -19,7 +19,7 @@ function App() {
     <>
       <Header/>
       <Hero/>
-      {/* <Counter/> */}
+    <Counter/> 
       {cardimg}
       <FormPractice/>
       <Signup/>
